@@ -1,0 +1,19 @@
+body{
+background-color:#eaf6f6;
+font-family: sans-serif;
+}
+hr{
+  center; border-color:#99b898;
+  border-style:none none dotted none;
+  border-width:8px;
+  width:7%
+
+}
+h2{color:#66bfbf}
+h1{color:#0fabbc}
+h3{color:#66bfbf}
+p{color:#111d5e}
+table{color:#111d5e}
+ul{color:#111d5e}
+ol{color:#111d5e}
+form{padding: 40px; color:#111d5e}
